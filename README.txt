@@ -1,4 +1,9 @@
-Racket Rebar Service website
-Responsive for Android/mobile and desktop.
-Includes 10+ years experience and the supplied dark/orange image-based design direction.
-Replace placeholder phone, email, WhatsApp and image URLs before publishing.
+Racket Rebar Service - Updated Website
+
+Files are ready for GitHub Pages deployment.
+Upload index.html and logo.png to the repository root.
+The website is responsive for Android/mobile and desktop.
+
+Business: Racket Rebar Service
+Experience: 10+ Years
+Services: Rebar Estimating, Rebar Detailing, Quantity Takeoff, BBS
